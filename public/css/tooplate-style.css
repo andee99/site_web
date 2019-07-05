@@ -458,6 +458,24 @@ ul.cd-hero-slider {
 	margin-bottom: 30px;
 }
 
+.img1{
+	width: 570px;
+	height: 470px;
+	overflow: hidden;
+}
+
+.img2{
+	width: 570px;
+	height: 220px;
+	overflow: hidden;
+}
+
+.img2{
+	width: 570px;
+	height: 220px;
+	overflow: hidden;
+}
+
 .blog-item img {
 	width: 100%;
 	overflow: hidden;
