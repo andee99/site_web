@@ -5,13 +5,13 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version : 2.6.3
 
-* System dependencies
+* System dependencies : ça marchera
 
 * Configuration
 
-* Database creation
+* Database creation : base de données créée sur PostgreSQL
 
 * Database initialization
 
